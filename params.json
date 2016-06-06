@@ -1,0 +1,6 @@
+{
+  "name": "React-redux-tic-tac-toe",
+  "tagline": "Tic Tac Toe Built with React & Redux",
+  "body": "### Learn React and Redux with Video Games\r\nThis is just an experiment to demonstrate various techniques in React and Redux using the classic game Tic Tac Toe.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
