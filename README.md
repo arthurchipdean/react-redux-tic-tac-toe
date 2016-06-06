@@ -1,1 +1,1 @@
-# Tic Tac Toe build with React Redux
+# Tic Tac Toe built with React Redux
