@@ -1,6 +1,6 @@
 {
   "name": "react-redux-tic-tac-toe",
-  "version": "dev-master",
+  "version": "0.0.0",
   "main": "index.js",
   "engines": {
     "node": ">=4.2.0",
